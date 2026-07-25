@@ -1,0 +1,50 @@
+# Courtyard
+
+## Courtyard
+
+- [What is Courtyard.io?](https://docs.courtyard.io/courtyard/about-courtyard.io/what-is-courtyard.md): At Courtyard.io, we’re on a mission to empower all kinds of collectors by pushing the boundaries of how people collect and trade.
+- [Vault Your Cards](https://docs.courtyard.io/courtyard/about-courtyard.io/vault-your-cards.md): Get started for free on Courtyard.io. Currently US only.
+- [Ship Direct Option](https://docs.courtyard.io/courtyard/about-courtyard.io/vault-your-cards/ship-direct-option.md)
+- [Watches](https://docs.courtyard.io/courtyard/about-courtyard.io/watches.md): TL;DR: Courtyard is launching a new way to buy luxury watches — pay a fixed price, get a guaranteed authenticated timepiece, with fully disclosed odds and 95% buyback offers.
+- [Supercharge Your Collectible](https://docs.courtyard.io/courtyard/about-courtyard.io/supercharge-your-collectible.md)
+- [List Your Collectibles For Sale](https://docs.courtyard.io/courtyard/about-courtyard.io/supercharge-your-collectible/list-your-collectibles-for-sale.md): Listing your connected collectible for sale only takes a few clicks. No need to snap pictures, fill out detailed listings, or bother with packaging/shipping.
+- [Curate Your Showroom](https://docs.courtyard.io/courtyard/about-courtyard.io/supercharge-your-collectible/curate-your-showroom.md): Design and build a stunning showcase for all of your physical collectibles for anyone with an internet connection to see and interact with.
+- [Grow Your Collection](https://docs.courtyard.io/courtyard/about-courtyard.io/supercharge-your-collectible/grow-your-collection.md): Easily bid or buy, and watch your new collectibles get transferred to you instantly.
+- [Earn Rewards For Curation](https://docs.courtyard.io/courtyard/about-courtyard.io/supercharge-your-collectible/earn-rewards-for-curation.md): Let's build the future of collecting together.
+- [Auctions](https://docs.courtyard.io/courtyard/about-courtyard.io/auctions.md)
+- [Overview](https://docs.courtyard.io/courtyard/technology/overview.md)
+- [Proof of Integrity](https://docs.courtyard.io/courtyard/technology/proof-of-integrity.md)
+- [Asset Storage & Insurance](https://docs.courtyard.io/courtyard/logistics-and-legal/asset-storage-and-insurance.md)
+- [Asset Redemption & Shipping](https://docs.courtyard.io/courtyard/logistics-and-legal/asset-redemption-and-shipping.md)
+- [Import Taxes](https://docs.courtyard.io/courtyard/logistics-and-legal/asset-redemption-and-shipping/import-taxes.md)
+- [KYC Process](https://docs.courtyard.io/courtyard/logistics-and-legal/kyc-process.md)
+- [Intellectual Property](https://docs.courtyard.io/courtyard/logistics-and-legal/intellectual-property.md)
+- [User Agreements](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements.md)
+- [Terms of Service](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/terms-of-service.md)
+- [Privacy Policy](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/privacy-policy.md)
+- [Listing Guidelines](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/listing-guidelines.md)
+- [NFT Terms & Asset Management Services Agreement](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/nft-terms-and-asset-management-services-agreement.md)
+- [Referral Program Rules](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/referral-program-rules.md)
+- [Diamond Dash Official Rules](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/diamond-dash-official-rules.md): Last updated: 6/28/24
+- [Pack Attack Official Rules](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/pack-attack-official-rules.md)
+- [Daily Pack Giveaway Official Rules](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/daily-pack-giveaway-official-rules.md)
+- [Black Friday and Cyber Monday 2025 Giveaway](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/black-friday-and-cyber-monday-2025-giveaway.md)
+- [5 Days of Packs 2025 Raffle](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/5-days-of-packs-2025-raffle.md)
+- [The Amazing Chase Grand Prize Giveaway](https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/the-amazing-chase-grand-prize-giveaway.md)
+- [Account management](https://docs.courtyard.io/courtyard/logistics-and-legal/account-management.md): How to Close Your Courtyard.io Account
+- [Press Coverage](https://docs.courtyard.io/courtyard/resources/press-coverage.md): A roundup of articles, podcasts, interviews, etc. that Courtyard.io is featured in. This section will be regularly updated.
+- [Useful Links](https://docs.courtyard.io/courtyard/resources/useful-links.md)
+- [Grading Your Cards](https://docs.courtyard.io/courtyard/resources/grading-your-cards.md)
+- [Adding Funds](https://docs.courtyard.io/courtyard/resources/adding-funds.md): Add fun to your Courtyard.io wallet in a few easy steps!
+- [Polygon Migration](https://docs.courtyard.io/courtyard/resources/polygon-migration.md)
+- [Recovering Funds](https://docs.courtyard.io/courtyard/resources/recovering-funds.md)
+- [Setting up a Crypto Wallet](https://docs.courtyard.io/courtyard/resources/setting-up-a-crypto-wallet.md)
+- [Converting legacy USDC to new native USDC](https://docs.courtyard.io/courtyard/resources/converting-legacy-usdc-to-new-native-usdc.md)
+- [Opening a Pack](https://docs.courtyard.io/courtyard/resources/opening-a-pack.md)
+- [Courtyard.io x CGC](https://docs.courtyard.io/courtyard/resources/courtyard.io-x-cgc.md)
+- [Referral Program](https://docs.courtyard.io/courtyard/resources/referral-program.md)
+- [Courtyard Vault Transition](https://docs.courtyard.io/courtyard/resources/courtyard-vault-transition.md)
+- [Points](https://docs.courtyard.io/courtyard/resources/points.md)
+- [Courtyard x DraftKings Giveaway](https://docs.courtyard.io/courtyard/resources/courtyard-x-draftkings-giveaway.md): Courtyard x DraftKings Josh Allen Giveaway — Terms & Conditions
+- ["Back To School"](https://docs.courtyard.io/courtyard/past-drops/back-to-school.md)
+- [Sneaks.world](https://docs.courtyard.io/courtyard/past-drops/sneaks.world.md)

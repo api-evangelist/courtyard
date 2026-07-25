@@ -1,8 +1,27 @@
 aid: courtyard
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/courtyard.png
 name: Courtyard
-description: 'Courtyard is a company surfaced as a portfolio company of forerunner-ventures and added
-  to the API Evangelist network as a stub for enrichment. Sector: commerce. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Courtyard (courtyard.io) is a marketplace and tokenization service for
+  physical collectibles — trading cards, luxury watches, and other graded assets. Collectors
+  vault a physical item in Courtyard''s insured facility and receive a blockchain-backed
+  digital token (an NFT on Ethereum/Polygon) representing verified ownership, which
+  can then be instantly bought, sold, bid on, or redeemed for physical shipment. The
+  platform combines a "Proof of Integrity" authentication process, KYC-gated onboarding,
+  a hosted wallet with fiat funding, digital pack drops and auctions, and a curated
+  showroom experience. Courtyard is a Forerunner Ventures portfolio company operating
+  in the commerce / collectibles sector; it exposes a consumer web application and
+  smart contracts rather than a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/courtyard/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Commerce
+- Collectibles
+- Marketplace
+- Tokenization
+- NFT
+- Blockchain
+- Web3
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,30 @@ maintainers:
 common:
 - type: Website
   url: https://courtyard.io
+- type: Documentation
+  url: https://docs.courtyard.io/
+- type: TermsOfService
+  url: https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/terms-of-service
+- type: PrivacyPolicy
+  url: https://docs.courtyard.io/courtyard/logistics-and-legal/user-agreements/privacy-policy
+- type: Support
+  url: https://discord.gg/courtyard-io
+- type: SignUp
+  url: https://courtyard.io/
+- type: LLMsTxt
+  url: llms/courtyard-llms.txt
+- type: WellKnown
+  url: well-known/courtyard-well-known.yml
+- type: SecurityTxt
+  url: well-known/courtyard-security.txt
+- type: Security
+  url: well-known/courtyard-security.txt
+- type: VulnerabilityDisclosure
+  url: security/courtyard-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/courtyard-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
