@@ -1,15 +1,22 @@
 generated: '2026-07-18'
 method: searched
 host: https://courtyard.io
-documents:
-- path: /.well-known/security.txt          # RFC 9116
-  status: 200
-  file: courtyard-security.txt
-- path: /.well-known/openid-configuration   # OIDC discovery
-  status: 403
-- path: /.well-known/oauth-authorization-server  # RFC 8414
-  status: 403
-- path: /.well-known/api-catalog
-  status: 403
-- path: /.well-known/ai-plugin.json
-  status: 403
+hosts:
+- host: https://courtyard.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    file: courtyard-security.txt
+  - path: /.well-known/openid-configuration
+    status: 403
+  - path: /.well-known/oauth-authorization-server
+    status: 403
+  - path: /.well-known/api-catalog
+    status: 403
+  - path: /.well-known/ai-plugin.json
+    status: 403
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
